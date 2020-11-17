@@ -1,1 +1,1 @@
-# Loutreuil is web app which coollect statistick information.
+# Loutreuil is web app which collect statistics information.
